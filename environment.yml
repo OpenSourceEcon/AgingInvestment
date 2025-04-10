@@ -19,7 +19,4 @@ dependencies:
 - pip:
   - ogcore
   - ogusa
-  - tensorflowjs
-  - tensorflow==2.15.0
-  - tensorflow_decision_forests==1.8.1
   - plotly-express
