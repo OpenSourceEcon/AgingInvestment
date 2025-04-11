@@ -51,3 +51,4 @@ ogusa/csv_output_files/*
 ogusa/images/*
 .vscode/
 *default.profraw
+*un_api_token.txt*
