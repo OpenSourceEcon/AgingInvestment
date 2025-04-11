@@ -1,0 +1,22 @@
+name: age-invest-dev
+channels:
+- conda-forge
+dependencies:
+- python>=3.7.7, <3.13
+- numpy
+- scipy
+- pandas>=1.2.5
+- matplotlib
+- bokeh
+- scikit-learn
+- ipython
+- ipykernel
+- jupyter
+- setuptools
+- black>=24.1.1
+- pytest
+- pip
+- pip:
+  - ogcore
+  - ogusa
+  - plotly-express
